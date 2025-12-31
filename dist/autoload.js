@@ -5,9 +5,8 @@
 
 // Recommended to use absolute path for live2d_path parameter
 // live2d_path 参数建议使用绝对路径
-const live2d_path = 'https://fastly.jsdelivr.net/npm/live2d-widgets@1.0.0-rc.6/dist/';
-// const live2d_path = '/dist/';
-
+const live2d_path = 'https://fastly.jsdelivr.net/gh/a870988925/live2d-widget@1.o.o/dist/'
+  'https://fastly.jsdelivr.net/gh啊''h
 // Method to encapsulate asynchronous resource loading
 // 封装异步加载资源的方法
 function loadExternalResource(url, type) {
